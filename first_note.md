@@ -9,4 +9,4 @@
 - e
 - f
 
-[category](https://github.com/Chuang-Liu/notes/search?q=abc)
+[category](https://github.com/Chuang-Liu/notes/search?q=[category])
